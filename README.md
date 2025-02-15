@@ -6,6 +6,11 @@ Please refer to this GitHub repository for some of your homework. Feel free to b
 | Homework  | Description | Language | Link
 | --------- | ------------- | ---- | ---- |
 | [HW 03](https://ctin583.usc.edu/latest/Homework/hw02/) | Classes and Coroutines | C# | [Folder](./hw02) |
+| [HW 04](https://ctin583.usc.edu/latest/Homework/hw03/) | Gyroscope | C# | [Folder](./hw04) |
+| [HW 05](https://ctin583.usc.edu/latest/Homework/hw04/) | Generics and Inheritance | C# | [Folder](./hw05) |
+| [HW 06](https://ctin583.usc.edu/latest/Homework/hw05/) | Enumerations | C# | [Folder](./hw06) |
+| [HW 07](https://ctin583.usc.edu/latest/Homework/hw07/) | 3D Orientations | C# | [Folder](./hw07) |
+| [HW 08](https://ctin583.usc.edu/latest/Homework/hw08/) | Yarn Spinner | C#, Yarn | [Folder](./hw08) |
 
 ## Set Up
 
